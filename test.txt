@@ -1,1 +1,3 @@
-Hello Git! x
+Hello Git! 
+It's test txt for git
+
